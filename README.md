@@ -40,7 +40,7 @@ else if (count > 0)
 ```
 
 ## Connection Diagram
-![Prototype](https://raw.githubusercontent.com/sarthaksahni1/automatic_appliance_control_with_bidirectional_visitor_counter/master/circuit_diagram.jpg)<br>
+![CircuitDiagram](https://raw.githubusercontent.com/sarthaksahni1/automatic_appliance_control_with_bidirectional_visitor_counter/master/circuit_diagram.jpg)<br>
 
 ## Design Steps<br>
 1. Now to design this circuit we have to interface 16x2 LCD with Arduino UNO as shown in diagram.<br>
