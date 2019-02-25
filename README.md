@@ -1,7 +1,7 @@
 # Home_Automation
 We built an IoT based system which can automatically switch ON room lights and fan when at least one person is present in the room. If room is empty, the lights and fan will automatically get switch off. It also displays count of persons present in the room.
 
-![Prototype](https://raw.githubusercontent.com/sarthaksahni1/automatic_appliance_control_with_bidirectional_visitor_counter/master/Prototype.jpg)<br>
+![Prototype](https://raw.githubusercontent.com/sarthaksahni1/automated_room_on_visitor_entry/master/Prototype.jpg)<br>
 Automatically turn the room lights and fan ON when at least one person is present in the room.<br>
 
 ## Project Overview<br>
@@ -40,7 +40,7 @@ else if (count > 0)
 ```
 
 ## Connection Diagram
-![CircuitDiagram](https://raw.githubusercontent.com/sarthaksahni1/automatic_appliance_control_with_bidirectional_visitor_counter/master/circuit_diagram.jpg)<br>
+![CircuitDiagram](https://raw.githubusercontent.com/sarthaksahni1/automated_room_on_visitor_entry/master/circuit_diagram.jpg)<br>
 
 ## Design Steps<br>
 1. Now to design this circuit we have to interface 16x2 LCD with Arduino UNO as shown in diagram.<br>
