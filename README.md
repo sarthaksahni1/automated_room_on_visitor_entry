@@ -1,4 +1,4 @@
-# Home_Automation
+# Automated_Room_On_Visitor_Entry
 We built an IoT based system which can automatically switch ON room lights and fan when at least one person is present in the room. If room is empty, the lights and fan will automatically get switch off. It also displays count of persons present in the room.
 
 ![Prototype](https://raw.githubusercontent.com/sarthaksahni1/automated_room_on_visitor_entry/master/Prototype.jpg)<br>
